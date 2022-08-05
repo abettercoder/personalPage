@@ -9,6 +9,11 @@ ul {
     padding : 0;
 }
 
-ul li {
+.top {
     float: left;
+}
+
+.vertical {
+    float: left;
+    align-content: flex-start;
 }
