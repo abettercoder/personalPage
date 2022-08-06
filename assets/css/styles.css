@@ -10,10 +10,15 @@ ul {
 }
 
 .top {
-    float: left;
+    float: right;
 }
 
 .vertical {
     float: left;
     align-content: flex-start;
+}
+
+.content {
+    display: absolute;
+    align-content: center;
 }
